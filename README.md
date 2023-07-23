@@ -1,4 +1,4 @@
-# userManagementSystem
+# <p style="text-align: center;"> Mapping-Curd-Springboot👋</p>
 - This project store the data of user managment system.
 
 ## Framwork and Language use in this Project
@@ -19,10 +19,8 @@
 ## Data structure used in my project.
  - In my Project ArrayList and  methods like add, remove are used.
 ## Project Summery
-My project includes below properties
-- UserName
-- Name
-- UserID
-- Address
-- PhoneNumber 
-In this project we can create, read, edit and update the information of any user. 
+My project includes the User Management System built using Spring Boot offers a comprehensive and secure solution for managing user accounts and related functionalities. Its user-friendly interface and robust features make it an ideal choice for various applications, from small-scale applications to large enterprise-level systems.
+
+
+
+
